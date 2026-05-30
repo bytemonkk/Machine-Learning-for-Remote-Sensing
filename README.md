@@ -84,7 +84,7 @@ Target labels correspond to different land-cover categories.
 
 ### Best Performing Model
 
-🏆 **XGBoost** achieved the highest classification accuracy of **91.61%**.
+**XGBoost** achieved the highest classification accuracy of **91.61%**.
 
 ---
 
