@@ -22,6 +22,10 @@ The primary objective was to explore how different Machine Learning models perfo
 
 ## Dataset Information
 
+<p align="center">
+  <img src="images/remote_sensing_img.png" width="100%">
+</p>
+
 ### Dataset Statistics
 
 | Property          | Value                      |
