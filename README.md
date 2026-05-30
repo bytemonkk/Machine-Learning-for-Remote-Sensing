@@ -144,5 +144,3 @@ This repository is intended as a Machine Learning case study and learning projec
 **Manoj Kumar Sunkara**
 
 Artificial Intelligence & Machine Learning
-
-Machine Learning Enthusiast | Remote Sensing Learner | Researcher
