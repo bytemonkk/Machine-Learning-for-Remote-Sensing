@@ -108,14 +108,14 @@ Target labels correspond to different land-cover categories.
 ```text
 Remote-Sensing-ML-Case-Study/
 │
-├── data/
+├── dataset/
 │   └── merged_dataset.csv
 │
-├── notebooks/
-│   └── analysis.ipynb
+├── code/
+│   └── classify.py
 │
 ├── images/
-│   └── dataset_overview.png
+│   └── remote_sensing_img.png
 │
 ├── requirements.txt
 ├── .gitignore
