@@ -22,6 +22,10 @@ The primary objective was to explore how different Machine Learning models perfo
 
 ## Dataset Information
 
+<p align="center">
+  <img src="images/remote_sensing_img.png" width="100%">
+</p>
+
 ### Dataset Statistics
 
 | Property          | Value                      |
@@ -144,5 +148,3 @@ This repository is intended as a Machine Learning case study and learning projec
 **Manoj Kumar Sunkara**
 
 Artificial Intelligence & Machine Learning
-
-Machine Learning Enthusiast | Remote Sensing Learner | Researcher
