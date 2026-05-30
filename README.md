@@ -1,6 +1,6 @@
 
 # Machine-Learning-for-Remote-Sensing
-A beginner machine learning case study on remote sensing land-cover classification using spectral data. The project compares Logistic Regression, SVM, Random Forest, XGBoost, and Neural Networks for multiclass classification.
+An introductory machine learning project focused on remote sensing data analysis and land-cover classification. The study covers data preprocessing, feature exploration, model training, and performance comparison across multiple machine learning algorithms. XGBoost achieved the best overall performance with an accuracy of 91.61%.
 
 ---
 
